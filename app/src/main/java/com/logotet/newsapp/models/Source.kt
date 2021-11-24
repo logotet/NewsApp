@@ -1,4 +1,4 @@
-package com.logotet.newsapp.ui.models
+package com.logotet.newsapp.models
 
 data class Source(
     val id: String,
